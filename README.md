@@ -6,13 +6,13 @@ IM Digital banker Academy Machine Learning Competiton
 📌 Bank Customer Churn Prediction
 1. 프로젝트 개요
 
-은행 고객 데이터를 기반으로 고객 이탈(churn)을 예측하는 모델을 구축하고,
-이탈에 영향을 미치는 주요 요인을 분석하는 것을 목표로 했다.
+- 은행 고객 데이터를 기반으로 고객 이탈(churn)을 예측하는 모델을 구축하고,
+- 이탈에 영향을 미치는 주요 요인을 분석하는 것을 목표로 했다.
 
 2. 데이터 및 목표
-데이터: Bank Customer Churn Dataset
-목표: 고객의 이탈 여부(Churn = 1)를 예측
-특징: 이탈 고객 비율 약 20%로 불균형 데이터
+- 데이터: Bank Customer Churn Dataset
+- 목표: 고객의 이탈 여부(Churn = 1)를 예측
+- 특징: 이탈 고객 비율 약 20%로 불균형 데이터
 3. 진행 과정
 ① 전처리
 customer_id 제거 (식별 변수)
