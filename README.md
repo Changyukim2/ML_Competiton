@@ -1,4 +1,4 @@
-# M Digital Banker Academy Machine Learning Competition
+# iM Digital Banker Academy Machine Learning Competition
 
 ## 📌 Bank Customer Churn Prediction
 
