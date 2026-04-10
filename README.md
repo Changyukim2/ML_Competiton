@@ -101,6 +101,8 @@ SHAP 분석을 통해 고객 이탈에 큰 영향을 주는 주요 변수를 확
   - 특정 구간에서 이탈 가능성이 증가하는 비선형 패턴 확인
 - **balance 증가**
   - 이탈 확률이 높아지는 경향 확인
+  
+<img width="1101" height="784" alt="output" src="https://github.com/user-attachments/assets/626c12a9-0ed0-4b00-9d19-99a1b2462980" />
 
 ---
 
