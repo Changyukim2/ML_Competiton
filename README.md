@@ -19,7 +19,7 @@
 
 ## 2. Dataset
 
-- **Dataset**: Bank Customer Churn Dataset
+- **Dataset**: Bank Customer Churn Dataset ( 캐글 , row:10000, col:12)
 - **Target**: `Churn`  
   - `1` = 이탈 고객
   - `0` = 유지 고객
@@ -121,13 +121,15 @@ SHAP 분석을 통해 고객 이탈에 큰 영향을 주는 주요 변수를 확
 
 ## 7. Tech Stack
 
-- **Python**
-- **Pandas / NumPy**
-- **Matplotlib / Seaborn**
-- **Scikit-learn**
-- **PyCaret**
-- **Optuna**
-- **SHAP**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white)
+![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyCaret](https://img.shields.io/badge/PyCaret-1C1C1C?style=for-the-badge&logo=python&logoColor=white)
+![Optuna](https://img.shields.io/badge/Optuna-3B82F6?style=for-the-badge&logo=optuna&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6F61?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
