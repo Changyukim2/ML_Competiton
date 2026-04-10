@@ -46,6 +46,9 @@
 - 특히 `age` 변수에서  
   이탈 고객이 상대적으로 높은 연령대에 집중되는 경향 확인
 
+<img width="1384" height="984" alt="eda" src="https://github.com/user-attachments/assets/2e700a80-7759-48f0-bed9-29a1209aa09b" />
+
+
 ### ③ Feature Selection
 - `RandomForest`의 feature importance 기반으로 상위 7개 변수 선택
 - 주요 변수:
